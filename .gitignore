@@ -40,3 +40,7 @@ tests/stamp-h2
 doc/*.html
 doc/*.3
 doc/*.7
+.vs
+*.vcxproj.user
+bin
+src/win32/obj
